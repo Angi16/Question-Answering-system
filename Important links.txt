@@ -1,0 +1,16 @@
+
+
+
+1. NLP-Question-Answer
+
+https://www.packtpub.com/mapt/book/big_data_and_business_intelligence/9781787285101/27/ch08lvl1sec0053/question-answering-system
+
+
+2. Which parsing algorithm can I use for NLP question answering system?
+
+https://ai.stackexchange.com/questions/2787/which-parsing-algorithm-can-i-use-for-nlp-question-answering-system
+
+3. Question answering with TensorFlow
+
+https://www.oreilly.com/ideas/question-answering-with-tensorflow
+
